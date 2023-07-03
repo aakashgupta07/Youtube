@@ -1,0 +1,52 @@
+
+  #t1 {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+  }
+
+  #t2 {
+    font-family: Arial;
+    font-size: 14px;
+    color: #606060;
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  #t3 {
+    font-family: arial;
+    font-size: 14px;
+    color: #606060;
+    margin-top: 0px;
+    margin-bottom: 20px;
+  }
+
+  #t4 {
+    font-family: arial;
+    font-size: 14px;
+    color: #606060;
+    margin-top: 0px;
+    width: 275px;
+    line-height: 22px;
+    margin-bottom: 80px;
+  }
+
+  #t5 {
+    font-family: arial;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-top: 0px;
+ }
+
+ #s1:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    
+ }
